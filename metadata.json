@@ -1,0 +1,6 @@
+{
+  "name": "کانفیگوراتور سه‌بعدی تبریز سکوریت",
+  "description": "سیستم جامع شبیه‌سازی و پیکربندی سه‌بعدی سیستم‌های شیشه سکوریت ریلی، تاشو بالکنی و آکاردئونی با قابلیت تغییر یراق‌آلات، پنل‌ها و شبیه‌سازی مکانیکی حرکات",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
